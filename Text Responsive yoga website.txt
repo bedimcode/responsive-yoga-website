@@ -1,0 +1,144 @@
+========== HEADER ==========
+.nav__logo
+Yoga
+
+.nav__link
+Home
+
+Health
+
+Routine
+
+Follow
+
+
+========== HOME ==========
+.home__title
+Choose Your 
+Best <div>Yoga</div>
+Teacher
+
+.home__description
+Calm your mind and body with the best 
+yoga teachers available, relax your day 
+and stay positive.
+
+.button
+Get Started Free
+
+.home__box
+300+
+Yoga Class
+
+40+
+Participants
+
+
+========== LIST ==========
+.list__number
+#01
+
+.list__description
+Get a list of specific influencers in 
+your niche at your fingertips so you can 
+focus on managing your status.
+
+.list__button
+Next
+
+
+========== HEALTH ==========
+.section__title
+Bring Happiness To 
+Good Health!
+
+.health__description
+If you take care of your good health, take 
+care of your mentality and lead a healthy 
+life with positive thoughts every day.
+
+.button
+Let’s Start
+
+.health__title .health__number
+Heart Rate
+168 bpm
+
+500+
+Free Courses
+
+
+========== ROUTINE ==========
+.section__title
+Anytime, Any Place, 
+Any Workout
+
+.routine__description
+Take your routine at any time of your day, 
+with the new videos and with the teachers 
+who will guide you.
+
+.button
+Get Started Free
+
+.routine__title
+High Quality Video
+Professional Trainer
+
+
+========== FOLLOW ==========
+.section__title
+Follow Us On 
+Instagram
+<div>#YOGA</div>
+
+.follow__button
+Follow
+
+
+========== JOIN ==========
+.section__title
+Join our newsletter
+
+.join__description
+Subscribe to our newsletter to be aware of 
+many things on discounts, gifts, training 
+and much more. Just enter your email.
+
+.join__input placeholder
+For latest update send mail
+
+.join__button
+Subscribe
+
+
+========== FOOTER ==========
+.footer__logo
+Yoga
+
+.footer__description
+Take care of your health and <br>
+your mind with the best <br>
+Yoga classes.
+
+footer__title .footer__info
+Address
+12345 M/01 Sol <br>
+Avenue, Lima, Peru
+
+Contact
++123 456 7890 <br>
+yoga@email.com
+
+Office
+Monday - Saturday <br>
+9AM - 10PM
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+https://www.youtube.com/
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
